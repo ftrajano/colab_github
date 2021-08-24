@@ -1,7 +1,7 @@
 
 Um teste da conexão do Colab com Github.
 
-[Colab-github.ipynb](/Colab-gihub.ipnyb)
+[Colab-github.ipynb](/colab_github.ipynb)
 
 # Colaboratory-Github
 ## Writing Functions in Python
